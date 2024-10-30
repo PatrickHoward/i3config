@@ -29,9 +29,9 @@ URxvt*background: [60]#000000
 URxvt*depth: 32
 URxvt*foreground: #FFFFFF
 
-URxvt*font: xft:FantasqueSansMono-Regular:pixelsize=12:antialias=true
-URxvt*boldFont: xft:FantasqueSansMono-Bold:pixelsize=12:antialias=true
-URxvt*italicFont: xft:FantasqueSansMono-Italic:pixelsize=12:antialias=true
+URxvt*font: xft:UbuntuSansMono-Regular:pixelsize=12:antialias=true
+URxvt*boldFont: xft:UbuntuSansMono-Bold:pixelsize=12:antialias=true
+URxvt*italicFont: xft:UbuntuSansMono-Italic:pixelsize=12:antialias=true
 
 ! scrollbar style - rxvt (default), 
 ! plain (compact), NeXT, or xtermn
